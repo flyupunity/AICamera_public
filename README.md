@@ -1,4 +1,4 @@
-# AICamera_public
+# AICamera
 AI camepa on python
 
 The application requires a camera to work!!!
@@ -10,7 +10,6 @@ Warnings:
 Camera is required for the app to work!!!
 Your computer may get very hot when running the application !!!
 
-This is public version "AICamera" project.
 # Install
 
 Download and place anywhere on your computer
